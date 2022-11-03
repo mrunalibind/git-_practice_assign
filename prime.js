@@ -5,6 +5,7 @@ function checkPrime(N){
             factors++;
         }
     }
+
     if(factors==2){
         console.log("Prime Number");
     }
